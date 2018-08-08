@@ -1,0 +1,8 @@
+1. don't having to scroll over the whole files
+2. spend time on what really matters, not looking for bugs.
+3. pro:more control. contra:you can forget to commit, or do it late
+4. changes in files may be interrelated
+5. git log gives all the commits, I can search for a particular change.
+	git diff compares two commits, I can see the differences between them
+6. you can revert to any older versions any time
+7. may be useful in the future, when doing machine learning projects (stock market, poker)
